@@ -1,5 +1,4 @@
-<h1 align="center">Welcome to my profile kidfury09</h1>
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">Welcome to my profile</h1>
 <p align="left">
 </p>
 
